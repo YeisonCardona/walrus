@@ -1,0 +1,58 @@
+{
+  "id": "Bell-twist.V01",
+  "name": "Lámpara colgante de campana y láminas rotadas",
+  "slug": "lampara-colgante-de-campana-y-laminas-rotadas",
+  "type": "Lámpara colgante pequeña",
+  "description": "Una lámpara colgante con diseño de campana y láminas rotadas que destaca por su estructura geométrica y su perfil de curvas fluidas. El conjunto de finas láminas dispuestas con una rotación secuencial crea una celosía abierta que deja al descubierto la fuente de luz, logrando un equilibrio perfecto entre la precisión técnica y la estética artesanal.<br/><br/> Esta pieza funciona como un punto focal idóneo para espacios interiores que buscan una iluminación directa y ambiental al mismo tiempo. Su configuración proyecta un sutil juego de sombras radiales sobre el entorno, convirtiéndola en una opción versátil y elegante para instalar sobre mesas de comedor, barras o zonas de estar.",
+  "price": 80000,
+  "features": [
+    "Cable ajustable (1 metro máximo)",
+    "Base para techo incluida",
+    "Socket E27",
+    "10 vatios recomendado"
+  ],
+  "details": [
+    {
+      "key": "Material",
+      "value": "MDF"
+    },
+    {
+      "key": "Espesor",
+      "value": "4 mm"
+    },
+    {
+      "key": "Acabado",
+      "value": "Tratado con cera"
+    },
+    {
+      "key": "Alto",
+      "value": "28 cm"
+    },
+    {
+      "key": "Diámetro",
+      "value": "15 cm"
+    },
+    {
+      "key": "Peso",
+      "value": "300 gramos"
+    }
+  ],
+  "assets": {
+    "images": {
+      "horizontal": [
+        "{PATH}/images/ambient_1.jpeg"
+      ],
+      "vertical": [
+        "{PATH}/images/ambient_2.jpeg"
+      ],
+      "square": [
+        "{PATH}/images/inside.jpg",
+        "{PATH}/images/top.jpg"
+      ],
+      "diagram": "{PATH}/images/Bell-twist.V01.all.png",
+      "thumbnail": "{PATH}/images/thumbnail.jpeg"
+    }
+  },
+  "is_active": true,
+  "created_at": "2026-09-11T15:50:00Z"
+}

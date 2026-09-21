@@ -1,0 +1,58 @@
+{
+  "id": "prod_walrus_002",
+  "name": "Lampara Parametrica Echo",
+  "slug": "bell-1",
+  "type": "Pantalla de lámpara pequeña",
+  "description": "Lampara decorativa de techo fabricada en MDF mediante corte laser, con diseno parametrico que genera un juego de luces y sombras calido.",
+  "price": 80000,
+  "features": [
+    "Cable ajustable (1 metro máximo)",
+    "Base para techo incluida",
+    "Socket E27",
+    "10 vatios recomendado"
+  ],
+  "details": [
+    {
+      "key": "Material",
+      "value": "MDF"
+    },
+    {
+      "key": "Espesor",
+      "value": "4 mm"
+    },
+    {
+      "key": "Acabado",
+      "value": "Tratado con cera"
+    },
+    {
+      "key": "Alto",
+      "value": "28 cm"
+    },
+    {
+      "key": "Diámetro",
+      "value": "15 cm"
+    },
+    {
+      "key": "Peso",
+      "value": "300 gramos"
+    }
+  ],
+  "assets": {
+    "images": {
+      "horizontal": [
+        "{PATH}/images/ambient_1.jpeg"
+      ],
+      "vertical": [
+        "{PATH}/images/ambient_2.jpeg"
+      ],
+      "square": [
+        "{PATH}/images/inside.jpg",
+        "{PATH}/images/top.jpg"
+      ],
+      "diagram": "{PATH}/images/Bell.V01.all.png",
+      "thumbnail": "{PATH}/images/thumbnail.jpeg"
+    }
+  },
+  "is_active": true,
+  "created_at": "2026-09-11T15:50:00Z"
+}
