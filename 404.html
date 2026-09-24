@@ -4,11 +4,7 @@
     <meta charset="utf-8" />
     <title>Cargando...</title>
     <script type="text/javascript">
-      // 1. Capturamos la ruta actual (ej: /carrito-de-compras)
       var path = window.location.pathname;
-
-      // 2. Redirigimos a la raíz '/' pasando la ruta como un parámetro 'p'
-      // Importante: Usamos '/' al inicio para asegurar que vamos a la raíz del dominio
       window.location.replace('/?p=' + encodeURIComponent(path));
     </script>
   </head>
