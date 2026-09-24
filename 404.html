@@ -3,19 +3,14 @@
   <head>
     <meta charset="utf-8" />
     <title>Cargando...</title>
-<!--    <script type="text/javascript">-->
-<!--      var path = window.location.pathname;-->
-<!--      window.location.replace('/?p=' + encodeURIComponent(path));-->
-<!--    </script>-->
-
     <script type="text/javascript">
       var location = window.location;
       var path = location.pathname;
       var search = location.search;
-      window.location.replace('/?p=' + encodeURIComponent(path) + '&q=' + encodeURIComponent(search));
+      window.location.replace(
+        '/?p=' + encodeURIComponent(path) + '&q=' + encodeURIComponent(search),
+      );
     </script>
-
-
   </head>
   <body></body>
 </html>
