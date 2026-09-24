@@ -1,12 +1,25 @@
 <!doctype html>
 <html lang="en" data-beasties-container>
   <head>
+    <!--    <script type="text/javascript">-->
+    <!--      (function () {-->
+    <!--        var query = window.location.search;-->
+    <!--        if (query.indexOf('p=') !== -1) {-->
+    <!--          var path = query.substring(query.indexOf('p=') + 2);-->
+    <!--          window.history.replaceState({}, document.title, decodeURIComponent(path));-->
+    <!--        }-->
+    <!--      })();-->
+    <!--    </script>-->
+
     <script type="text/javascript">
       (function () {
-        var query = window.location.search;
-        if (query.indexOf('p=') !== -1) {
-          var path = query.substring(query.indexOf('p=') + 2);
-          window.history.replaceState({}, document.title, decodeURIComponent(path));
+        var params = new URLSearchParams(window.location.search);
+        var path = params.get('p');
+        var query = params.get('q');
+
+        if (path) {
+          var finalUrl = decodeURIComponent(path) + (query ? decodeURIComponent(query) : '');
+          window.history.replaceState({}, document.title, finalUrl);
         }
       })();
     </script>
