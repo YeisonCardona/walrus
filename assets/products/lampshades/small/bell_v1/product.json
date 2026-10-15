@@ -1,9 +1,9 @@
 {
-  "id": "prod_walrus_002",
-  "name": "Lampara Parametrica Echo",
-  "slug": "bell-1",
+  "id": "Bell.V01",
+  "name": "Lámpara colgante de campana",
+  "slug": "lampara-colgante-de-campana",
   "type": "Pantalla de lámpara pequeña",
-  "description": "Lampara decorativa de techo fabricada en MDF mediante corte laser, con diseno parametrico que genera un juego de luces y sombras calido.",
+  "description": "Una lámpara colgante de silueta acampanada con una delicada estructura abombada, elaborada mediante listones verticales de madera en un cálido acabado natural con cantos oscurecidos por corte de alta precisión. La disposición simétrica de sus varillas genera una envoltura orgánica que abraza la bombilla de filamento expuesto, articulando un juego constante entre vacíos y materia que resalta tanto la maestría técnica como la riqueza textural del material.<br/><br/>Diseñada para actuar como una pieza central de alto valor estético, proyecta una iluminación puntual hacia la base mientras tamiza una luz ambiental cálida a través de su enrejado, dibujando patrones de sombra envolventes en el entorno. Es la elección idónea para realzar atmósferas acogedoras e intencionadas en comedores, barras de cocina, rincones de lectura o salones de estilo contemporáneo y nórdico.",
   "price": 80000,
   "features": [
     "Cable ajustable (1 metro máximo)",
@@ -26,7 +26,7 @@
     },
     {
       "key": "Alto",
-      "value": "28 cm"
+      "value": "21 cm"
     },
     {
       "key": "Diámetro",

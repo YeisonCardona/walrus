@@ -1,9 +1,9 @@
 {
-  "id": "prod_walrus_004",
-  "name": "Lampara Parametrica Echo",
-  "slug": "tambor",
+  "id": "Barrel.V01",
+  "name": "Lámpara colgante de barril",
+  "slug": "lampara-colgante-de-barril",
   "type": "Pantalla de lámpara pequeña",
-  "description": "Lampara decorativa de techo fabricada en MDF mediante corte laser, con diseno parametrico que genera un juego de luces y sombras calido.",
+  "description": "Una lámpara colgante de formato cilíndrico abombado que destaca por su perfil vertical y sus proporciones estilizadas. El conjunto de finas láminas curvas dispuestas de forma radial crea una celosía abierta que envuelve la fuente de luz, cuyos cantos oscurecidos aportan una marcada profundidad tridimensional y un sutil contraste visual entre precisión técnica y calidez de diseño00.<br/><br/>Esta pieza funciona como un refinado punto focal para proyectos de interiorismo que requieren iluminación directa sobre la superficie de uso e indirecta hacia el entorno. Su disposición permeable proyecta un envolvente juego de luces y sombras lineales, convirtiéndola en una solución ideal para instalar en serie sobre barras de cocina, islas o de forma individual en mesas auxiliares y rincones de estar.",
   "price": 80000,
   "features": [
     "Cable ajustable (1 metro máximo)",
@@ -26,11 +26,11 @@
     },
     {
       "key": "Alto",
-      "value": "28 cm"
+      "value": "19 cm"
     },
     {
       "key": "Diámetro",
-      "value": "15 cm"
+      "value": "11 cm"
     },
     {
       "key": "Peso",

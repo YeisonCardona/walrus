@@ -1,9 +1,9 @@
 {
-  "id": "prod_walrus_003",
-  "name": "Lampara Parametrica Echo",
-  "slug": "bell-2",
+  "id": "Bell.V02",
+  "name": "Lámpara colgante de ánfora",
+  "slug": "lampara-colgante-de-anfora",
   "type": "Pantalla de lámpara pequeña",
-  "description": "Lampara decorativa de techo fabricada en MDF mediante corte laser, con diseno parametrico que genera un juego de luces y sombras calido.",
+  "description": "Una lámpara colgante de silueta estilizada tipo ánfora o jarrón, caracterizada por un elegante cuello ceñido que se abre en un remate cóncavo en la parte superior. Su estructura está compuesta por listones verticales de madera dispuestas radialmente, cuyos bordes oscurecidos por el corte de precisión aportan una notable profundidad tridimensional y dinamismo visual. La separación calculada entre sus piezas deja entrever la bombilla de filamento expuesto, combinando el encanto del diseño paramétrico con una cálida estética de inspiración orgánica.<br/><br/>Esta pieza actúa como un sofisticado punto focal, proyectando una luz directa hacia abajo ideal para iluminar zonas de trabajo o de reunión, al tiempo que tamiza un suave resplandor ambiental tamizado entre sus varillas. Su delicado juego de luces y sombras paralelas transforma la atmósfera de comedores, barras, recibidores o salones contemporáneos, convirtiéndose en el complemento perfecto para espacios que buscan calidez y carácter arquitectónico.",
   "price": 80000,
   "features": [
     "Cable ajustable (1 metro máximo)",
@@ -26,7 +26,7 @@
     },
     {
       "key": "Alto",
-      "value": "28 cm"
+      "value": "21 cm"
     },
     {
       "key": "Diámetro",
