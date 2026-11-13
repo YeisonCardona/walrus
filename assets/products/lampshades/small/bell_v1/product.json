@@ -50,7 +50,7 @@
         "{PATH}/images/top.jpg"
       ],
       "diagram": "{PATH}/images/Bell.V01.all.png",
-      "thumbnail": "{PATH}/images/thumbnail.jpeg"
+      "thumbnail": "{PATH}/images/thumbnail.png"
     }
   },
   "is_active": true,

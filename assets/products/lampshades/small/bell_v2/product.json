@@ -40,7 +40,7 @@
   "assets": {
     "images": {
       "horizontal": [
-        "{PATH}/images/ambient_1.jpeg"
+        "{PATH}/images/ambient_1.png"
       ],
       "vertical": [
         "{PATH}/images/ambient_2.jpeg"
@@ -50,7 +50,7 @@
         "{PATH}/images/top.jpg"
       ],
       "diagram": "{PATH}/images/Bell.V02.all.png",
-      "thumbnail": "{PATH}/images/thumbnail.jpeg"
+      "thumbnail": "{PATH}/images/thumbnail.png"
     }
   },
   "is_active": true,
