@@ -40,7 +40,7 @@
   "assets": {
     "images": {
       "horizontal": [
-        "{PATH}/images/ambient_1.png"
+        "{PATH}/images/ambient_1.jpeg"
       ],
       "vertical": [
         "{PATH}/images/ambient_2.jpeg"
